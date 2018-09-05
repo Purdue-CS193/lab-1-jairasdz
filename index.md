@@ -2,7 +2,7 @@
 ## CS Major
 ### Purdue Freshman
 
-# What I like about CS193:
+### What I like about CS193:
 - The TAs are cool.
 - We get to learn how to be CS peeps.
 
