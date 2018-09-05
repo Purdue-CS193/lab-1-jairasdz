@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Aira San Diego
+## CS Major
+### Purdue Freshman
+
+#What I like about CS193:
+-The TAs are cool.
+-We get to learn how to be CS peeps.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,12 +17,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Aira San Diego
-## CS Major
+# Header 1
+## Header 2
 ### Freshman
 
-- The TAs are cool
-- We get to learn how to be CS majors
+- Bulleted
+- List
 
 1. Numbered
 2. List
