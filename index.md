@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## CS Major
 ### Freshman
 
-- Bulleted
-- List
+- The TAs are cool
+- We get to learn how to be CS majors
 
 1. Numbered
 2. List
